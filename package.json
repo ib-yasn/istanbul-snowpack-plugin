@@ -1,0 +1,15 @@
+{
+  "name": "istanbul-snowpack-plugin",
+  "version": "0.0.1",
+  "description": "Istanbul instrument plugin for snowpack",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rollup/pluginutils": "^4.1.0",
+    "istanbul-lib-instrument": "^4.0.3"
+  }
+}
